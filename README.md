@@ -27,7 +27,11 @@ The game is won and over when the character reaches 20 treasures. At the same ti
 
 ## Images from the game
 
+### Figure 1: Gold, bomb, coconut and character
+
 ![Ekran görüntüsü 2024-03-18 213533](https://github.com/OzgunGultekin/Treasure-of-Pirate/assets/153070257/aee3e6c8-9f5c-4e28-8c8c-22dbb5409820)
+
+### Figure 2: Diamond, and character
 
 ![Ekran görüntüsü 2024-03-18 213549](https://github.com/OzgunGultekin/Treasure-of-Pirate/assets/153070257/691d4eb4-e92b-47ba-b632-605c997a9967)
 
